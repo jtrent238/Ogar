@@ -1,0 +1,139 @@
+[Game] Loaded stats server on port 88
+[Game] Listening on port 26543
+[Game] Current game mode is Free For All
+>addbot 130
+[Console] Added 130 player bots
+>playerlist
+[Console] Showing 130 players: 
+ ID         | IP              | NICK            | CELLS | SCORE  | POSITION    
+-------------------------------------------------------------------------------
+          1 | BOT             | stalin          |     1 |      9 |   109,  2217
+          2 | BOT             | iran            |     1 |     10 |  4846,  5624
+          3 | BOT             | wojak           |     1 |      9 |    98,  2186
+          4 | BOT             | pakistan        |     1 |      9 |  3315,  4089
+          5 | BOT             | united kingdom  |     1 |      9 |  5725,  4326
+          6 | BOT             | brazil          |     1 |     10 |  5127,  5110
+          7 | BOT             | china           |     1 |      9 |   872,  3116
+          8 | BOT             | venezuela       |     1 |      9 |   905,  1033
+          9 | BOT             | indonesia       |     1 |      9 |  2759,  2512
+         10 | BOT             | prodota         |     1 |     10 |  2728,   444
+         11 | BOT             | merkel          |     1 |      9 |  1231,   860
+         12 | BOT             | latvia          |     1 |      9 |  4994,  2125
+         13 | BOT             | reddit          |     1 |     11 |   547,  1803
+         14 | BOT             | nasa            |     1 |     10 |  5503,   435
+         15 | BOT             | maldivas        |     1 |     10 |  2787,  2592
+         16 | BOT             | croatia         |     1 |      9 |  5839,   751
+         17 | BOT             | putin           |     1 |     11 |  1169,  3021
+         18 | BOT             | south korea     |     1 |      9 |  1080,  5619
+         19 | BOT             | ukraine         |     1 |      9 |  2759,  4732
+         20 | BOT             | german empire   |     1 |     10 |  2865,   566
+         21 | BOT             | satanist        |     1 |      9 |  4310,  2559
+         22 | BOT             | yaranaika       |     1 |      9 |  1419,  4623
+         23 | BOT             | boris           |     1 |     11 |  5117,  5104
+         24 | BOT             | facepunch       |     1 |      9 |  2814,  2332
+         25 | BOT             | argentina       |     1 |     11 |  5128,  3847
+         26 | BOT             | greece          |     1 |     10 |  2599,  2584
+         27 | BOT             | texas           |     1 |     10 |  4984,  5572
+         28 | BOT             | romania         |     1 |      9 |  3389,  3829
+         29 | BOT             | dilma           |     1 |     11 |  5745,   477
+         30 | BOT             | cuba            |     1 |      9 |  5786,   657
+         31 | BOT             | australia       |     1 |     12 |  5960,  1898
+         32 | BOT             | steam           |     1 |      9 |  4020,  1302
+         33 | BOT             | switzerland     |     1 |     10 |   990,  4372
+         34 | BOT             | hillary         |     1 |     10 |  5678,  4215
+         35 | BOT             | austria         |     1 |      9 |  4381,  5728
+         36 | BOT             | finland         |     1 |      9 |   996,  4315
+         37 | BOT             | mexico          |     1 |      9 |  2720,  2798
+         38 | BOT             | russia          |     1 |      9 |  5561,  1915
+         39 | BOT             | kc              |     1 |     10 |  2883,   535
+         40 | BOT             | sanik           |     1 |     10 |  1063,  1057
+         41 | BOT             | ea              |     1 |     10 |  2855,  2645
+         42 | BOT             | 8               |     1 |      9 |   677,  1241
+         43 | BOT             | lithuania       |     1 |      9 |  4203,  2371
+         44 | BOT             | nigeria         |     1 |     11 |  3390,  4352
+         45 | BOT             | usa             |     1 |     10 |  2629,  2615
+         46 | BOT             | sealand         |     1 |     12 |  3269,  4630
+         47 | BOT             | france          |     1 |      9 |  2684,  2605
+         48 | BOT             | pokerface       |     1 |      9 |  2717,  2532
+         49 | BOT             | moon            |     1 |      9 |  1340,  3041
+         50 | BOT             | stussy          |     1 |     11 |  2829,  2792
+         51 | BOT             | french kingdom  |     1 |      9 |  3146,  3027
+         52 | BOT             | mars            |     1 |     11 |  4669,  4306
+         53 | BOT             | 4chan           |     1 |      9 |  1579,  4698
+         54 | BOT             | sweden          |     1 |      9 |  5554,  4250
+         55 | BOT             | imperial japan  |     1 |     10 |  1011,  1646
+         56 | BOT             | estonia         |     1 |      9 |  2667,  2508
+         57 | BOT             | ayy lmao        |     1 |      9 |   790,  1285
+         58 | BOT             | origin          |     1 |      9 |  2759,  2534
+         59 | BOT             | fidel           |     1 |     10 |  2819,  2488
+         60 | BOT             | quebec          |     1 |      9 |  2644,  2255
+         61 | BOT             | piccolo         |     1 |     10 |  2826,   444
+         62 | BOT             | jamaica         |     1 |     10 |  3462,  4836
+         63 | BOT             | chavez          |     1 |      9 |  1207,   932
+         64 | BOT             | berlusconi      |     1 |      9 |  1016,  1131
+         65 | BOT             | tumblr          |     1 |      9 |   656,  1193
+         66 | BOT             | germany         |     1 |      9 |  2728,  2442
+         67 | BOT             | palin           |     1 |      9 |  2876,   426
+         68 | BOT             | prussia         |     1 |     11 |  2135,  4948
+         69 | BOT             | vinesauce       |     1 |     11 |  4626,  5720
+         70 | BOT             | india           |     1 |      9 |  2532,  4712
+         71 | BOT             | japan           |     1 |     11 |  4230,  5666
+         72 | BOT             | obama           |     1 |      9 |  3212,   781
+         73 | BOT             | canada          |     1 |     11 |  2557,  4775
+         74 | BOT             | sir             |     1 |      9 |  3656,  2785
+         75 | BOT             | botswana        |     1 |      9 |  1027,  4452
+         76 | BOT             | italy           |     1 |     10 |  5324,  2863
+         77 | BOT             | blatter         |     1 |      9 |  4331,  4566
+         78 | BOT             | clinton         |     1 |     10 |  3108,  4088
+         79 | BOT             | 9gag            |     1 |      9 |  2615,  2624
+         80 | BOT             | bush            |     1 |     10 |  2759,  2512
+         81 | BOT             | scotland        |     1 |      9 |  5819,  4180
+         82 | BOT             | bait            |     1 |     10 |  5551,  3309
+         83 | BOT             | tsarist russia  |     1 |      9 |  2906,   481
+         84 | BOT             | norway          |     1 |      9 |  2664,  2577
+         85 | BOT             | receita federal |     1 |      9 |  2705,  2710
+         86 | BOT             | hollande        |     1 |      9 |  4359,  5717
+         87 | BOT             | chile           |     1 |     10 |  3174,  1120
+         88 | BOT             | iraq            |     1 |      9 |   389,  1811
+         89 | BOT             | cameron         |     1 |      9 |  2527,  4789
+         90 | BOT             | ireland         |     1 |      9 |  2782,  2478
+         91 | BOT             | matriarchy      |     1 |     11 |  1226,  4515
+         92 | BOT             | byzantium       |     1 |      9 |  2711,  4980
+         93 | BOT             | patriarchy      |     1 |     10 |  2628,  4858
+         94 | BOT             | 2ch.hk          |     1 |      9 |  5960,  1898
+         95 | BOT             | peru            |     1 |     10 |  5183,  5125
+         96 | BOT             | doge            |     1 |     10 |  2107,   536
+         97 | BOT             | north korea     |     1 |     10 |  3293,  4545
+         98 | BOT             | denmark         |     1 |      9 |  5839,   617
+         99 | BOT             | hungary         |     1 |      9 |  2948,  3703
+        100 | BOT             | spain           |     1 |     10 |  5960,  1898
+        101 | BOT             | taiwan          |     1 |      9 |  4026,  4292
+        102 | BOT             | bulgaria        |     1 |      9 |  2831,  2764
+        103 | BOT             | thailand        |     1 |      9 |  2088,  5147
+        104 | BOT             | tsipras         |     1 |      9 |  2589,  1664
+        105 | BOT             | luxembourg      |     1 |     10 |  3567,   307
+        106 | BOT             | trump           |     1 |     10 |  1052,  4358
+        107 | BOT             | kim jong-un     |     1 |     12 |  2593,   424
+        108 | BOT             | turkey          |     1 |     11 |  2716,  4710
+        109 | BOT             | bosnia          |     1 |      9 |  2977,  5714
+        110 | BOT             | ussr            |     1 |     11 |  2179,   481
+        111 | BOT             | european union  |     1 |      9 |  5749,   806
+        112 | BOT             | netherlands     |     1 |     10 |  1170,  4245
+        113 | BOT             | facebook        |     1 |     11 |  4448,  5756
+        114 | BOT             | poland          |     1 |      9 |  5173,  2911
+        115 | BOT             | feminism        |     1 |     11 |  3092,  3677
+        116 | BOT             | somalia         |     1 |      9 |  2913,  3001
+        117 | BOT             | indiana         |     1 |     10 |  1144,  4329
+        118 | BOT             | portugal        |     1 |     10 |  5605,  1914
+        119 | BOT             | earth           |     1 |      9 |  2717,  2458
+        120 | BOT             | chaplin         |     1 |     11 |   706,  5205
+        121 | BOT             | confederate     |     1 |     10 |  3296,   562
+        122 | BOT             | bangladesh      |     1 |      9 |  4484,  2548
+        123 | BOT             | cia             |     1 |     10 |  1355,   685
+        124 | BOT             | queen           |     1 |      9 |  4914,  4253
+        125 | BOT             | 8ch             |     1 |      9 |  4880,  4221
+        126 | BOT             | hong kong       |     1 |      9 |  5283,  2810
+        127 | BOT             | irs             |     1 |      9 |   717,  1034
+        128 | BOT             | cambodia        |     1 |     10 |  3357,  3628
+        129 | BOT             | qing dynasty    |     1 |      9 |  2690,  2509
+        130 | BOT             | belgium         |     1 |     10 |   970,  3677
